@@ -203,6 +203,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sahand :neutral_face:](https://github.com/sahandkarimkhani)
 - [Farhood Kavoosi](https://github.com/FarhoodKa)
 - [Mohammad](https://github.com/maskroid)
+- [Naghme :free: Jadi](https://github.com/NaghmeM)
 - [Mohammadreza Rezaei (Haji Mammad)](https://github.com/MrRezaei)
 - [Mehdi Bagheri :computer: :books:](https://github.com/Mahdicodes)
 - [omid :trollface:](https://github.com/omidzahed1998)
